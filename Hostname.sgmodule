@@ -1,8 +1,9 @@
-#!name=[MITM]hostname
+#!name=hostname
 #!desc=hostname Module
 
 [MITM]
-*.360buyimg.com
+skip-server-cert-verify = true
+hostname = *.360buyimg.com
 *.chelaile.net.cn
 *.cnbetacdn.com
 *.didistatic.com
