@@ -1,5 +1,5 @@
 #!name=URL Rewrite
-#!desc=URL Rewrite Module
+#!desc=URL 重定向
 
 [URL Rewrite]
 # > Redirect Google Service
