@@ -1,0 +1,6 @@
+#!name=Rule
+#!desc=屏蔽广告
+
+[Rule]
+RULE-SET,https://raw.githubusercontent.com/TPCTPCTPC/Adblock-gist/master/Keywords.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/TPCTPCTPC/Adblock-gist/master/Suffixes.list,REJECT
