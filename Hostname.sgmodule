@@ -4,7 +4,6 @@
 [MITM]
 skip-server-cert-verify = true
 hostname = *.360buyimg.com,
-*.chelaile.net.cn,
 *.cnbetacdn.com,
 *.didistatic.com,
 *.doubanio.com,
